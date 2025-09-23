@@ -12,11 +12,10 @@
 
 ---
 
-### 🔗 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/badhan-sarkar-420363344" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
-
+### 🔗 Connect with me:&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+</a>
 
 ---
 
@@ -50,10 +49,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="40" height="40"/>
@@ -75,7 +74,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
   </a>
 </p>
 
@@ -90,11 +89,10 @@
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
   </a>
-  
 </p>
 
 ---
+
 ### 📘 Learning
-- 🔍 Exploring: Distributed systems, REST & GraphQL APIs, scalable architectures
-- 🛠️ Currently experimenting with: Microservices , Kafka
--->
+- 🔍 Exploring: Distributed systems, REST & GraphQL APIs, scalable architectures  
+- 🛠️ Currently experimenting with: Microservices, Kafka
