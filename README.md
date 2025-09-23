@@ -13,7 +13,7 @@
 ---
 
 ### 🔗 Connect with me:&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/badhan-sarkar-420363344" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
 </a>
 
