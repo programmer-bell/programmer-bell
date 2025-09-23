@@ -13,7 +13,10 @@
 ---
 
 ### 🔗 Connect with me:
-<!-- You can add links to LinkedIn, Twitter, etc. here if you want -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/badhan-sarkar-420363344" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+</p>
+
 
 ---
 
@@ -87,13 +90,11 @@
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
   </a>
+  
 </p>
 
 ---
-
-<!-- Optional blog or project section -->
-<!--
-### 📘 Blog / Learning
+### 📘 Learning
 - 🔍 Exploring: Distributed systems, REST & GraphQL APIs, scalable architectures
-- 🛠️ Currently experimenting with: gRPC, Kubernetes, and microservices
+- 🛠️ Currently experimenting with: Microservices , Kafka
 -->
