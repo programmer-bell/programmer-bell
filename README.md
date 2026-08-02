@@ -92,7 +92,3 @@
 </p>
 
 ---
-
-### 📘 Learning
-- 🔍 Exploring: Distributed systems, REST & GraphQL APIs, scalable architectures  
-- 🛠️ Currently experimenting with: Microservices, Kafka
