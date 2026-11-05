@@ -5,18 +5,6 @@
   A passionate backend developer who loves to experiment, build, and learn new backend technologies.  
   This GitHub is my personal lab — where I push everything I experiment with, learn, or build.
 </p>
-
----
-
-- 📫 Reach me at: **bell38527@gmail.com**
-
----
-
-### 🔗 Connect with me:&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/badhan-sarkar-420363344" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
-</a>
-
 ---
 
 ### 🛠️ Languages and Tools
