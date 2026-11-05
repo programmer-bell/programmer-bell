@@ -92,7 +92,7 @@
   <a href="https://kubernetes.io/"><img src="https://cdn.simpleicons.org/kubernetes?viewbox=auto" width="42" height="42" alt="Kubernetes" /></a>&nbsp;&nbsp;
   <a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker?viewbox=auto" width="42" height="42" alt="Docker" /></a>&nbsp;&nbsp;
   <a href="https://github.com/features/actions"><img src="https://cdn.simpleicons.org/githubactions?viewbox=auto" width="42" height="42" alt="GitHub Actions" /></a>&nbsp;&nbsp;
-  <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="64" height="42" alt="Amazon Web Services (AWS)" /></a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/"><img src="./icon/aws.png" width="64" height="42" alt="Amazon Web Services (AWS)" /></a>&nbsp;&nbsp;
   <a href="https://developer.hashicorp.com/terraform"><img src="https://cdn.simpleicons.org/terraform?viewbox=auto" width="42" height="42" alt="Terraform" /></a>&nbsp;&nbsp;
   <a href="https://www.linux.org/"><img src="https://cdn.simpleicons.org/linux?viewbox=auto" width="42" height="42" alt="Linux" /></a>&nbsp;&nbsp;
   <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.simpleicons.org/gnubash?viewbox=auto" width="42" height="42" alt="Bash" /></a>
